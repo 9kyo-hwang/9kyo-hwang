@@ -37,7 +37,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white">
 
   <!-- Graphics API -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/DirectX-107C10?style=for-the-badge">
 
   <!-- VCS -->
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
